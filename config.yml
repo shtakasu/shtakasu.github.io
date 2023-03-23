@@ -1,8 +1,9 @@
 baseURL: "https://shtakasu.github.io"
-title: ExampleSite
+title: "ExampleSite"
 paginate: 5
-theme: PaperMod
+theme: "PaperMod"
 publishDir: "docs"
+canonifyurls: true
 
 enableRobotsTXT: true
 buildDrafts: false
