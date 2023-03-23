@@ -1,7 +1,8 @@
-baseURL: "https://shtakasu.github.io/"
+baseURL: "https://shtakasu.github.io"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
+publishDir: "docs"
 
 enableRobotsTXT: true
 buildDrafts: false
