@@ -31,15 +31,15 @@ Superviser: Toshio Aoyagi
 [School of Medicine](https://www.med.keio.ac.jp/en/), Keio University, Tokyo, Japan
 
 ## Main Employment
-**・ 2015.4-2017.3-**  
-Junior Resident at Sano Kosei General Hospital, Tochigi, Japan 
-
-**・ 2017.4-2018.3-**  
-Resident in Psychiatry Department, Keio University Hospital, Tokyo, Japan
+**・ 2019.4-2020.3-**  
+Psychiatrist, National Hospital Organization Shimofusa Psychiatric Center, Chiba, Japan
 
 **・ 2018.4-2019.3-**  
 Psychiatrist, Komagino Hospital, Tokyo, Japan
 
-**・ 2019.4-2020.3-**  
-Psychiatrist, National Hospital Organization Shimofusa Psychiatric Center, Chiba, Japan
+**・ 2017.4-2018.3-**  
+Resident in Psychiatry Department, Keio University Hospital, Tokyo, Japan
+
+**・ 2015.4-2017.3-**  
+Junior Resident at Sano Kosei General Hospital, Tochigi, Japan 
 
