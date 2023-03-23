@@ -6,3 +6,7 @@ hideMeta: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
+
+takasu.shotaro.63x[at]st.kyoto-u.ac.jp
+
+kasutaro1793[at]gmail.com
