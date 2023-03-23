@@ -3,7 +3,7 @@ title: "ExampleSite"
 paginate: 5
 theme: "PaperMod"
 publishDir: "docs"
-canonifyurls: true
+#canonifyurls: true
 
 enableRobotsTXT: true
 buildDrafts: false
