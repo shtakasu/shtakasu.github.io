@@ -5,12 +5,12 @@ theme: "PaperMod"
 publishDir: "docs"
 #canonifyurls: true
 
-enableRobotsTXT: true
-buildDrafts: false
+#enableRobotsTXT: true
+#buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+#googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -18,10 +18,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Shotaro Takasu's Website
-  description: "ExampleSite description"
+  title: Shotaro Takasu
+  description: "Shotaro Takasu's Website"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Shotaro Takasu
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -54,55 +54,52 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Shotaro Takasu's Website"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true # needs to be explicitly set
+    title: 高須 正太郎（Shotaro Takasu）
+    subtitle: "Dynamical Systems, Theoretical neuroscience, and Neuropsychiatry"
+
+    #imageUrl: "<img location>"
+    #imageWidth: 120
+    #imageHeight: 120
+    #imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Profile
+        url: profile
+      - name: Research
+        url: research
+      - name: Contact
+        url: contact
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+  #homeInfoParams:
+  #  Title: "Shotaro Takasu"
+  #  Content: Welcome to my blog
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/ShotaroTakasu"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/shtakasu"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
-
+  #analytics:
+  #  google:
+  #    SiteVerificationTag: "XYZabc"
+ 
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  #editPost:
+  #  URL: "https://github.com/<path_to_repo>/content"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -114,20 +111,21 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    - identifier: Profile
+      name: Profile
+      url: /profile/
+      weight: 1
+    - identifier: Research
+      name: Research
+      url: /research/
+      weight: 2
+    - identifier: Contact
+      name: Contact
+      url: /contact/
+      weight: 3
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

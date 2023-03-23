@@ -10,5 +10,33 @@
       <link>https://shtakasu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://shtakasu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://shtakasu.github.io/contact/</link>
+      <pubDate>Thu, 23 Mar 2023 22:02:16 +0900</pubDate>
+      
+      <guid>https://shtakasu.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://shtakasu.github.io/profile/</link>
+      <pubDate>Thu, 23 Mar 2023 22:02:00 +0900</pubDate>
+      
+      <guid>https://shtakasu.github.io/profile/</guid>
+      <description>About me 京都大学大学院情報学研究科 非線形物理学講座 博士課程に在籍しています。 非線形力学を中心とした数学理論と計算機実験を用いて、脳のダイナミクスと機能との関係を解明することを目指しています。 また、幻覚や妄想などの精神症状のメカニズムを計算理論的に理解することにも興味があります。 以前は精神科医として臨床・研究に携わっており、現在も外来診療を続けています。
+I am a Ph.D. student at the Nonlinear Physics Division, Kyoto University. I aim to elucidate the relationship between brain dynamics and function usign dynamical systems theory and computer simulations. Additionally, I am interested in how psychiatric symptoms, such as hallucination and delusion, can be understood in terms of computational theory. Previously, I have worked at a hospital as a psychiatrist, and I continue to conduct outpatient consultations.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://shtakasu.github.io/research/</link>
+      <pubDate>Thu, 23 Mar 2023 20:23:50 +0900</pubDate>
+      
+      <guid>https://shtakasu.github.io/research/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
