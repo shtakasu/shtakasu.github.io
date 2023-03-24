@@ -7,6 +7,10 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
+素子数が極めて大きいリカレントニューラルネットワーク（RNN）のダイナミクスを平均場理論やリヤプノフ解析を用いて調べています。さらに、そのようなRNNが持つ計算性能を情報理論の観点から解析しています。また、このような数理モデル研究と並行して、脳波や細胞のCa濃度などの時系列データに、Transfer Entropyというモデルフリーな解析手法を適用することで、情報の流れを推測する研究も行なっています。
+
+I study a large-scale recurrent neural network(RNN) by means of mean-field theory and Lyapunov analysis. In addition, I investigate computational capacity of such RNNs in terms of information theory. Besides these model analyses, I study information flow in time-series data such as EEG and intracellular calcium concentration, using transfer entropy, a model-free analysis method.
+
 ## Publications
 
 
@@ -17,7 +21,7 @@ ShowPostNavLinks: false
 ・ **高須正太郎**, 青柳富誌生, 「線形レザバー計算と非線形レザバー計算の計算性能の類似度」, 日本物理学会 2023年春季大会（オンライン開催）, 2023年3月22日（口頭発表）.  
 ・ **高須正太郎**, 青柳富誌生, 「部分的な入力刺激によるRecurrent Neural Networkのゆらぎの抑制」, CPSYコース東京2023, 2023年3月1日（ポスター発表）.  
 ・ **高須正太郎**, 青柳富誌生, 「部分的に入力を受けるRNNのダイナミクスと計算性能」, RIMS研究集会 力学系の理論と諸分野への応用, 2022年6月7日（口頭発表）.  
-・ **高須正太郎**, 青柳富誌生, 「レザバー計算機の計算性能とレザバーの力学系的性質の関係の検討」, 日本物理学会 第77回年次大会（オンライン開催） 2022年3月16日（口頭発表）.
+・ **高須正太郎**, 青柳富誌生, 「レザバー計算機の計算性能とレザバーの力学系的性質の関係の検討」, 日本物理学会 第77回年次大会（オンライン開催） 2022年3月16日（口頭発表）.  
 ・ **高須正太郎**, 青柳富誌生, 「レザバー計算機におけるレザバーのカオス性と非線形タスク処理性能の関係」,  日本物理学会 第76回年次大会(オンライン開催), 2021年3月15日（口頭発表）.
 
 ## Grants
