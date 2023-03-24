@@ -32,7 +32,7 @@ Superviser: Toshio Aoyagi
 
 ## Main Employment
 **・ 2019.4-2020.3-**  
-Psychiatrist, National Hospital Organization Shimofusa Psychiatric Center, Chiba, Japan
+Psychiatrist, National Hospital Organization Shimofusa Psychiatric Medical Center, Chiba, Japan
 
 **・ 2018.4-2019.3-**  
 Psychiatrist, Komagino Hospital, Tokyo, Japan
@@ -41,5 +41,5 @@ Psychiatrist, Komagino Hospital, Tokyo, Japan
 Resident in Psychiatry Department, Keio University Hospital, Tokyo, Japan
 
 **・ 2015.4-2017.3-**  
-Junior Resident at Sano Kosei General Hospital, Tochigi, Japan 
+Junior Resident, Sano Kosei General Hospital, Tochigi, Japan 
 
