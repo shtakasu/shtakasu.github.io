@@ -14,9 +14,9 @@ ShowPostNavLinks: false
 以前は精神科医として臨床・研究に携わっており、現在も外来診療を続けています。
 
 I am a Ph.D. student at the [Nonlinear Physics Division](https://www-np.acs.i.kyoto-u.ac.jp/en), Kyoto University.
-I aim to elucidate **the relationship between brain dynamics and function** usign **dynamical systems theory** and **computer simulations**.
+I aim to elucidate **the relationship between brain dynamics and function** using **dynamical systems theory** and **computer simulations**.
 Additionally, I am interested in how **psychiatric symptoms**, such as hallucination and delusion, can be understood in terms of **computational theory**.
-Previously, I have worked as a psychiatrist, and I continue to conduct outpatient consultations.
+Previously, I worked as a psychiatrist, and I continue to conduct outpatient consultations.
 
 ## Education
 **・ 2022.4 -Ph.D. student**  
