@@ -10,7 +10,7 @@ publishDir: "docs"
 buildFuture: false
 buildExpired: false
 
-#googleAnalytics: UA-123-45
+googleAnalytics: G-DR5J4VSCPF
 
 minify:
   disableXML: true
@@ -23,7 +23,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Shotaro Takasu
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["profile.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -64,9 +64,9 @@ params:
     title: 高須 正太郎（Shotaro Takasu）
     subtitle: "Dynamical Systems, Theoretical neuroscience, and Neuropsychiatry"
 
-    #imageUrl: "<img location>"
-    #imageWidth: 120
-    #imageHeight: 120
+    imageUrl: profile.jpg
+    imageWidth: 120
+    imageHeight: 150
     #imageTitle: my image
     buttons:
       - name: Profile
