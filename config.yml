@@ -23,7 +23,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Shotaro Takasu
   # author: ["Me", "You"] # multiple authors
-  images: ["profile.jpg"]
+  images: ["myimage.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -64,7 +64,7 @@ params:
     title: 高須 正太郎（Shotaro Takasu）
     subtitle: "Dynamical Systems, Theoretical neuroscience, and Neuropsychiatry"
 
-    imageUrl: profile.jpg
+    imageUrl: "myimage.jpg"
     imageWidth: 120
     imageHeight: 150
     #imageTitle: my image
