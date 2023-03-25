@@ -10,7 +10,7 @@ publishDir: "docs"
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-DR5J4VSCPF
+googleAnalytics: ""
 
 minify:
   disableXML: true
