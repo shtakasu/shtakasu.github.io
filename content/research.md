@@ -12,7 +12,7 @@ ShowPostNavLinks: false
 I study a large-scale recurrent neural network(RNN) by means of mean-field theory and Lyapunov analysis. In addition, I investigate computational capacity of such RNNs in terms of information theory. Besides these model analyses, I study information flow in time-series data such as EEG and intracellular calcium concentration, using transfer entropy, a model-free analysis method.
 
 ## Publications
-
+・Shotaro Takasu and Toshio Aoyagi, "Suppression of chaos in a partially driven recurrent neural network", arXiv: [2306.00900](https://arxiv.org/abs/2306.00900)
 
 ## Presentations（International Conference）
 ・ **Shotaro Takasu** and Toshio Aoyagi, "Dynamical mean-field analysis of a reservoir computing receiving input signals partially", NEURO 2022, Okinawa Convention Center, Japan, July 2022 (oral).
