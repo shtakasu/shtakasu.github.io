@@ -38,7 +38,7 @@ I am a Ph.D. student at the Nonlinear Physics Division, Kyoto University. I aim 
       <guid>https://shtakasu.github.io/research/</guid>
       <description>素子数が極めて大きいリカレントニューラルネットワーク（RNN）のダイナミクスを平均場理論やリヤプノフ解析を用いて調べています。さらに、そのようなRNNが持つ計算性能を情報理論の観点から解析しています。また、このような数理モデル研究と並行して、脳波や細胞のCa濃度などの時系列データに、Transfer Entropyというモデルフリーな解析手法を適用することで、情報の流れを推測する研究も行なっています。
 I study a large-scale recurrent neural network(RNN) by means of mean-field theory and Lyapunov analysis. In addition, I investigate computational capacity of such RNNs in terms of information theory. Besides these model analyses, I study information flow in time-series data such as EEG and intracellular calcium concentration, using transfer entropy, a model-free analysis method.
-Publications ・Shotaro Takasu and Toshio Aoyagi, &amp;ldquo;Suppression of chaos in a partially driven recurrent neural network&amp;rdquo;, Physical Review Research, in press.</description>
+Publications ・Shotaro Takasu and Toshio Aoyagi, Suppression of chaos in a partially driven recurrent neural network, Physical Review Research, 6, 013172 (2024).</description>
     </item>
     
   </channel>
