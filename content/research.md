@@ -27,6 +27,6 @@ I study a large-scale recurrent neural network(RNN) by means of mean-field theor
 ・ **高須正太郎**, 青柳富誌生, 「レザバー計算機におけるレザバーのカオス性と非線形タスク処理性能の関係」,  日本物理学会 第76回年次大会(オンライン開催), 2021年3月15日（口頭発表）.
 
 ## Documents（作成した資料）
-・[非エルミートランダム行列の固有値密度分布の導出]（Derivation of eigenspectrum of non-hermitian random matrices *japanese only） (https://github.com/shtakasu/shtakasu.github.io/blob/main/content/lecture_note_of_sommers1988.pdf)
+・[非エルミートランダム行列の固有値密度分布の導出](https://github.com/shtakasu/shtakasu.github.io/blob/main/content/lecture_note_of_sommers1988.pdf) （Derivation of eigenspectrum of non-hermitian random matrices *japanese only）
 ## Grants
 ・Research Fellowship for Young Scientists, Japan Society for the Promotion of Science (JSPS) DC1 (April 2022 - March 2025)
