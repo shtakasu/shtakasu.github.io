@@ -26,5 +26,8 @@ I study a large-scale recurrent neural network(RNN) by means of mean-field theor
 ・ **高須正太郎**, 青柳富誌生, 「レザバー計算機の計算性能とレザバーの力学系的性質の関係の検討」, 日本物理学会 第77回年次大会（オンライン開催） 2022年3月16日（口頭発表）.  
 ・ **高須正太郎**, 青柳富誌生, 「レザバー計算機におけるレザバーのカオス性と非線形タスク処理性能の関係」,  日本物理学会 第76回年次大会(オンライン開催), 2021年3月15日（口頭発表）.
 
+## Documents（作成した資料）
+・非エルミートランダム行列の固有値密度分布の導出（Derivation of eigenspectrum of non-hermitian random matrices *japanese only*）["lecture note of Sommers1988.pdf"]
+
 ## Grants
 ・Research Fellowship for Young Scientists, Japan Society for the Promotion of Science (JSPS) DC1 (April 2022 - March 2025)
