@@ -28,5 +28,7 @@ I study a large-scale recurrent neural network(RNN) by means of mean-field theor
 
 ## Documents（作成した資料）
 ・[非エルミートランダム行列の固有値密度分布の導出](https://github.com/shtakasu/shtakasu.github.io/blob/main/content/lecture_note_of_sommers1988.pdf) （Derivation of eigenspectrum of non-hermitian random matrices *japanese only）
+・[大自由度ランダム RNN の動的平均場理論とその周辺](https://github.com/shtakasu/shtakasu.github.io/blob/main/content/dynamical_mean_field_theory.pdf) （Dynamical mean field theory for random neural networks *japanese only）
+
 ## Grants
 ・Research Fellowship for Young Scientists, Japan Society for the Promotion of Science (JSPS) DC1 (April 2022 - March 2025)
