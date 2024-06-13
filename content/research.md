@@ -18,6 +18,7 @@ I study a large-scale recurrent neural network(RNN) by means of mean-field theor
 ・ **Shotaro Takasu** and Toshio Aoyagi, "Dynamical mean-field analysis of a reservoir computing receiving input signals partially", NEURO 2022, Okinawa Convention Center, Japan, July 2022 (oral).
 
 ## Presentations（国内会議）
+・ **高須正太郎**, 青柳富誌生, 「レザバー計算におけるニューロン相関が記憶容量に与える影響の理論解析」, 日本物理学会 第79回年次大会, 2024年9月16日-19日（口頭発表）＜予定＞.  
 ・ **高須正太郎**, 青柳富誌生, 「シナプス結合の揺らぎがリカレントニューラルネットワークのダイナミクスに与える影響」, 日本物理学会 第78回年次大会, 2023年9月16日（口頭発表）.  
 ・ **高須正太郎**, 青柳富誌生, 「線形レザバー計算と非線形レザバー計算の計算性能の類似度」, 日本物理学会 2023年春季大会（オンライン開催）, 2023年3月22日（口頭発表）.  
 ・ **高須正太郎**, 青柳富誌生, 「部分的な入力刺激によるRecurrent Neural Networkのゆらぎの抑制」, CPSYコース東京2023, 2023年3月1日（ポスター発表）.  
