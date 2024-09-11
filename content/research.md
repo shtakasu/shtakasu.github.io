@@ -29,7 +29,7 @@ I investigate dynamics, function and learning of neural network employing mathem
 ・ **高須正太郎**, 青柳富誌生, 「レザバー計算機におけるレザバーのカオス性と非線形タスク処理性能の関係」,  日本物理学会 第76回年次大会(オンライン開催), 2021年3月15日（口頭発表）.
 
 ## Misc
-・ [非エルミートランダム行列の固有値密度分布の導出](lecture_note_of_sommers1988.pdf) （Derivation of eigenspectrum of non-hermitian random matrices *japanese only）  
+・ [非エルミートランダム行列の固有値密度分布の導出](Sommers1988.pdf) （Derivation of eigenspectrum of non-hermitian random matrices *japanese only）  
 ・ [大自由度ランダム RNN の動的平均場理論とその周辺](dynamical_mean_field_theory.pdf) （Dynamical mean field theory for random neural networks *japanese only）
 
 ## Grants
