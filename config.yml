@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: 高須 正太郎（Shotaro Takasu）
-    subtitle: "Dynamical Systems, Theoretical neuroscience, and Neuropsychiatry"
+    subtitle: "Dynamical systems, Statistical physics, Theoretical neuroscience, and Neuropsychiatry"
 
     imageUrl: "myimage.jpg"
     imageWidth: 120
