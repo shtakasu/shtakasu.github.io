@@ -39,8 +39,8 @@ I am a Ph.D. student at the Nonlinear Physics Division, Kyoto University. I aim 
       <guid>https://shtakasu.github.io/research/</guid>
       <description>ニューラルネットワークのダイナミクス、機能、学習を、統計物理学や力学系理論などの数理的手法を用いたアプローチによって調べています。また、このような理論研究と並行して、脳波や細胞のCa濃度などの時系列データに、Transfer Entropyというモデルフリーな解析手法を適用することで、情報の流れを推測する研究も行なっています。
 I investigate dynamics, function and learning of neural network employing mathematical tools from statistical physics and dynamical systems theory. In addition, I study information flow in time-series data such as EEG and intracellular calcium concentration, using transfer entropy, a model-free analysis method.
-Publications ・Shotaro Takasu and Toshio Aoyagi, Suppression of chaos in a partially driven recurrent neural network, Physical Review Research, 6, 013172 (2024).
-Presentations（International Conference） ・ Shotaro Takasu and Toshio Aoyagi, &amp;ldquo;Dynamical mean-field analysis of a reservoir computing receiving input signals partially&amp;rdquo;, NEURO 2022, Okinawa Convention Center, Japan, July 2022 (oral).</description>
+Publications ・Shotaro Takasu and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks, Preprint.
+・Shotaro Takasu and Toshio Aoyagi, Suppression of chaos in a partially driven recurrent neural network, Physical Review Research, 6, 013172 (2024).</description>
     </item>
     
   </channel>
