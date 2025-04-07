@@ -7,9 +7,9 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
-ニューラルネットワークのダイナミクス、機能、学習を、統計物理学や力学系理論などの数理的手法を用いたアプローチによって調べています。また、このような理論研究と並行して、脳波や細胞のCa濃度などの時系列データに、Transfer Entropyというモデルフリーな解析手法を適用することで、情報の流れを推測する研究も行なっています。
+ニューラルネットワークのダイナミクス、機能、学習を、統計物理学や力学系理論などの数理的手法を用いたアプローチによって調べています。また、深層学習の理論に基づいて、脳の情報表現やそれを規定する因子を理論的に明らかにする研究も進めています。
 
-I investigate dynamics, function and learning of neural network employing mathematical tools from statistical physics and dynamical systems theory. In addition, I study information flow in time-series data such as EEG and intracellular calcium concentration, using transfer entropy, a model-free analysis method.
+I investigate dynamics, function and learning of neural networks employing mathematical tools from statistical physics and dynamical systems theory. Additionally, I theoretically study the information representation of the brain and its determining factors through deep learning theory. 
 
 ## Publications
 ・**Shotaro Takasu** and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks, [Preprint](manuscript.pdf).  
