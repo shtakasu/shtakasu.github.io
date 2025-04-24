@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shotaro Takasu&#39;s Website </title>
+    <link>https://shtakasu.github.io/</link>
+    <description>Recent content on Shotaro Takasu&#39;s Website </description>
+    <image>
+      <title>Shotaro Takasu&#39;s Website </title>
+      <url>https://shtakasu.github.io/myimage.jpg</url>
+      <link>https://shtakasu.github.io/myimage.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shtakasu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://shtakasu.github.io/contact/</link>
+      <pubDate>Thu, 23 Mar 2023 22:02:16 +0900</pubDate>
+      
+      <guid>https://shtakasu.github.io/contact/</guid>
+      <description>takasu.shotaro.63x[at]st.kyoto-u.ac.jp
+kasutaro1793[at]gmail.com
+＊診療に関するお問い合わせに関しては、一切お答えできません</description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://shtakasu.github.io/profile/</link>
+      <pubDate>Thu, 23 Mar 2023 22:02:00 +0900</pubDate>
+      
+      <guid>https://shtakasu.github.io/profile/</guid>
+      <description>About me 京都大学大学院情報学研究科 非線形物理学講座 博士課程に在籍しています。 非線形力学や統計物理学を中心とした数学理論と計算機実験を用いて、脳のダイナミクスと機能との関係を解明することを目指しています。 また、幻覚や妄想などの精神症状のメカニズムを計算理論的に理解することにも興味があります。 以前は精神科医として臨床・研究に携わっており、現在も外来診療を続けています。
+I am a Ph.D. student at the Nonlinear Physics Division, Kyoto University. I aim to elucidate the relationship between brain dynamics and function using mathematical theories including dynamical systems theory, statistical physics, and computer simulations. Additionally, I am interested in how psychiatric symptoms, such as hallucination and delusion, can be understood in terms of computational theory. Previously, I worked at a psychiatry hospital as a psychiatrist, and engaged in several clinical studies.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://shtakasu.github.io/research/</link>
+      <pubDate>Thu, 23 Mar 2023 20:23:50 +0900</pubDate>
+      
+      <guid>https://shtakasu.github.io/research/</guid>
+      <description>ニューラルネットワークのダイナミクス、機能、学習を、統計物理学や力学系理論などの数理的手法を用いたアプローチによって調べています。また、深層学習の理論に基づいて、脳の情報表現やそれを規定する因子を理論的に明らかにする研究も進めています。
+I investigate dynamics, function and learning of neural networks employing mathematical tools from statistical physics and dynamical systems theory. Additionally, I theoretically study the information representation of the brain and its determining factors through deep learning theory.
+Publications ・Shotaro Takasu and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks, Preprint.
+・Shotaro Takasu and Toshio Aoyagi, Suppression of chaos in a partially driven recurrent neural network, Physical Review Research, 6, 013172 (2024).</description>
+    </item>
+    
+  </channel>
+</rss>
