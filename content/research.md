@@ -12,7 +12,7 @@ ShowPostNavLinks: false
 I investigate dynamics, function and learning of neural networks employing mathematical tools from statistical physics and dynamical systems theory. Additionally, I theoretically study the information representation of the brain and its determining factors through deep learning theory. 
 
 ## Publications
-・**Shotaro Takasu** and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks, soon uploaded in arXiv.  
+・**Shotaro Takasu** and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks, Preprint [arXiv:2504.19657](https://arxiv.org/abs/2504.19657).  
 ・**Shotaro Takasu** and Toshio Aoyagi, Suppression of chaos in a partially driven recurrent neural network, [Physical Review Research, 6, 013172 (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013172).
 
 ## Presentations（International Conference）
