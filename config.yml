@@ -62,7 +62,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Shotaro Takasu （高須 正太郎）
+    title: Shotaro Takasu（高須 正太郎）
     subtitle: "Dynamical Systems, Statistical Physics, Theoretical Neuroscience, and Neuropsychiatry"
 
     imageUrl: "myimage.jpg"
