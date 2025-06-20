@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shotaro Takasu&#39;s Website </title>
+    <link>https://shtakasu.github.io/</link>
+    <description>Recent content on Shotaro Takasu&#39;s Website </description>
+    <image>
+      <title>Shotaro Takasu&#39;s Website </title>
+      <url>https://shtakasu.github.io/myimage.jpg</url>
+      <link>https://shtakasu.github.io/myimage.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Mar 2023 22:02:16 +0900</lastBuildDate><atom:link href="https://shtakasu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://shtakasu.github.io/contact/</link>
+      <pubDate>Thu, 23 Mar 2023 22:02:16 +0900</pubDate>
+      
+      <guid>https://shtakasu.github.io/contact/</guid>
+      <description>&lt;p&gt;takasu.shotaro.63x[at]st.kyoto-u.ac.jp&lt;/p&gt;
+&lt;p&gt;kasutaro1793[at]gmail.com&lt;/p&gt;
+&lt;p&gt;＊診療に関するお問い合わせに関しては、一切お答えできません&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://shtakasu.github.io/profile/</link>
+      <pubDate>Thu, 23 Mar 2023 22:02:00 +0900</pubDate>
+      
+      <guid>https://shtakasu.github.io/profile/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
+&lt;p&gt;京都大学大学院情報学研究科 &lt;a href=&#34;https://www-np.acs.i.kyoto-u.ac.jp/&#34;&gt;非線形物理学講座&lt;/a&gt; 博士課程に在籍しています。
+&lt;strong&gt;非線形力学や統計物理学を中心とした数学理論&lt;/strong&gt;と&lt;strong&gt;計算機実験&lt;/strong&gt;を用いて、&lt;strong&gt;脳のダイナミクスと機能との関係&lt;/strong&gt;を解明することを目指しています。
+また、&lt;strong&gt;幻覚や妄想などの精神症状のメカニズム&lt;/strong&gt;を&lt;strong&gt;計算理論的&lt;/strong&gt;に理解することにも興味があります。
+以前は精神科医として臨床・研究に携わっており、現在も外来診療を続けています。&lt;/p&gt;
+&lt;p&gt;I am a Ph.D. student at the &lt;a href=&#34;https://www-np.acs.i.kyoto-u.ac.jp/en&#34;&gt;Nonlinear Physics Division&lt;/a&gt;, Kyoto University.
+I aim to elucidate &lt;strong&gt;the relationship between brain dynamics and function&lt;/strong&gt; using &lt;strong&gt;mathematical theories including dynamical systems theory, statistical physics&lt;/strong&gt;, and &lt;strong&gt;computer simulations&lt;/strong&gt;.
+Additionally, I am interested in how &lt;strong&gt;psychiatric symptoms&lt;/strong&gt;, such as hallucination and delusion, can be understood in terms of &lt;strong&gt;computational theory&lt;/strong&gt;.
+Previously, I worked at a psychiatry hospital as a psychiatrist, and engaged in several clinical studies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://shtakasu.github.io/research/</link>
+      <pubDate>Thu, 23 Mar 2023 20:23:50 +0900</pubDate>
+      
+      <guid>https://shtakasu.github.io/research/</guid>
+      <description>&lt;p&gt;ニューラルネットワークのダイナミクス、機能、学習を、統計物理学や力学系理論などの数理的手法を用いたアプローチによって調べています。また、深層学習の理論に基づいて、脳の情報表現やそれを規定する因子を理論的に明らかにする研究も進めています。&lt;/p&gt;
+&lt;p&gt;I investigate dynamics, function and learning of neural networks employing mathematical tools from statistical physics and dynamical systems theory. Additionally, I theoretically study the information representation of the brain and its determining factors through deep learning theory.&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;h3 id=&#34;theoretical-neuroscience&#34;&gt;Theoretical Neuroscience&lt;/h3&gt;
+&lt;p&gt;・&lt;strong&gt;Shotaro Takasu&lt;/strong&gt; and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks, Preprint &lt;a href=&#34;https://arxiv.org/abs/2504.19657&#34;&gt;arXiv:2504.19657&lt;/a&gt;.&lt;br&gt;
+・&lt;strong&gt;Shotaro Takasu&lt;/strong&gt; and Toshio Aoyagi, Suppression of chaos in a partially driven recurrent neural network, &lt;a href=&#34;https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013172&#34;&gt;Physical Review Research, 6, 013172 (2024)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
