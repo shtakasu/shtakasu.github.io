@@ -13,8 +13,8 @@ I investigate dynamics, function and learning of neural networks employing mathe
 
 ## Publications
 ### Theoretical Neuroscience
-・**Shotaro Takasu** and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks, Preprint [arXiv:2504.19657](https://arxiv.org/abs/2504.19657).  
-・**Shotaro Takasu** and Toshio Aoyagi, Suppression of chaos in a partially driven recurrent neural network, [Physical Review Research, 6, 013172 (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013172).  
+・**Shotaro Takasu** and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks, *Physical Review Research*, In Press (Preprint: [arXiv:2504.19657](https://arxiv.org/abs/2504.19657)).  
+・**Shotaro Takasu** and Toshio Aoyagi, Suppression of chaos in a partially driven recurrent neural network, [*Physical Review Research*, 6, 013172 (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013172).  
 
 ### Psychiatry
 ・Hideaki Tani, **Shotaro Takasu**, Hiroyuki Uchida, Takefumi Suzuki, Masaru Mimura & Hiroyoshi Takeuchi, Factors associated with successful antipsychotic dose reduction in schizophrenia: a systematic review of prospective clinical trials and meta-analysis of randomized controlled trials, [Neuropsychopharmacology, 45, 887–901 (2020)](https://www.nature.com/articles/s41386-019-0573-7).  
