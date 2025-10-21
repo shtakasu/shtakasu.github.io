@@ -13,7 +13,7 @@ I investigate dynamics, function and learning of neural networks employing mathe
 
 ## Publications
 ### Theoretical Neuroscience
-・**Shotaro Takasu** and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks, *Physical Review Research*, In Press (Preprint: [arXiv:2504.19657](https://arxiv.org/abs/2504.19657)).  
+・**Shotaro Takasu** and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks, [*Physical Review Research*, 7, 043083 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/cwvm-s53p).  
 ・**Shotaro Takasu** and Toshio Aoyagi, Suppression of chaos in a partially driven recurrent neural network, [*Physical Review Research*, 6, 013172 (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013172).  
 
 ### Psychiatry
