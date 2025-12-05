@@ -12,7 +12,7 @@ ShowPostNavLinks: false
 また、**幻覚や妄想などの精神症状のメカニズム**を**計算理論的**に理解することにも興味があります。
 以前は精神科医として臨床・研究に携わっていました。
 
-I am a Postdoctral Associate in [Ann Kennedy's lab](https://www.kennedylab.org/) at The Scripps Research Institute. I aim to elucidate **the relationship between brain dynamics, representation, and function** using **mathematical theories including dynamical systems theory, statistical physics**, and **computer simulations**.
+I am a Postdoctral Associate in [Ann Kennedy's lab](https://www.kennedylab.org/) at Scripps Research. I aim to elucidate **the relationship between brain dynamics, representation, and function** using **mathematical theories including dynamical systems theory, statistical physics**, and **computer simulations**.
 Additionally, I am interested in how **psychiatric symptoms**, such as hallucination and delusion, can be understood in terms of **computational theory**.
 Previously, I worked at a psychiatry hospital as a psychiatrist, and engaged in several clinical studies.
 
