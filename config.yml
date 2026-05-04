@@ -65,7 +65,7 @@ params:
     title: Shotaro Takasu, MD, PhD（高須 正太郎）
     subtitle: "Dynamical Systems, Statistical Physics, Theoretical Neuroscience, and Neuropsychiatry"
 
-    imageUrl: "myimage.jpg"
+    imageUrl: "/myimage.jpg"
     imageWidth: 120
     imageHeight: 150
     #imageTitle: my image
