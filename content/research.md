@@ -40,5 +40,5 @@ I investigate dynamics, function and learning of neural networks employing mathe
 ・ Research Fellowship for Young Scientists, Japan Society for the Promotion of Science (JSPS) DC1 (April 2022 - March 2025)
 
 ## Misc
-・ [非エルミートランダム行列の固有値密度分布の導出](lecture_note_of_sommers1988.pdf) （Derivation of eigenspectrum of non-hermitian random matrices *japanese only）  
-・ [大自由度ランダム RNN の動的平均場理論とその周辺](dynamical_mean_field_theory.pdf) （Dynamical mean field theory for random neural networks *japanese only）
+・ [非エルミートランダム行列の固有値密度分布の導出](/pdfs/lecture_note_of_sommers1988.pdf) （Derivation of eigenspectrum of non-hermitian random matrices *japanese only）  
+・ [大自由度ランダム RNN の動的平均場理論とその周辺](/pdfs/dynamical_mean_field_theory.pdf) （Dynamical mean field theory for random neural networks *japanese only）
