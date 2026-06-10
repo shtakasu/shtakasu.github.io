@@ -71,11 +71,11 @@ params:
     #imageTitle: my image
     buttons:
       - name: Profile
-        url: profile
+        url: /profile/
       - name: Research
-        url: research
+        url: /research/
       - name: Contact
-        url: contact
+        url: /contact/
 
   # home-info mode
   #homeInfoParams:
