@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shotaro Takasu&#39;s Website </title>
-    <link>http://localhost:1313/</link>
+    <link>https://shtakasu.github.io/</link>
     <description>Recent content on Shotaro Takasu&#39;s Website </description>
     <image>
       <title>Shotaro Takasu&#39;s Website </title>
-      <url>http://localhost:1313/myimage.jpg</url>
-      <link>http://localhost:1313/myimage.jpg</link>
+      <url>https://shtakasu.github.io/myimage.jpg</url>
+      <link>https://shtakasu.github.io/myimage.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Mar 2023 22:02:16 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Mar 2023 22:02:16 +0900</lastBuildDate><atom:link href="https://shtakasu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://shtakasu.github.io/contact/</link>
       <pubDate>Thu, 23 Mar 2023 22:02:16 +0900</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://shtakasu.github.io/contact/</guid>
       <description>&lt;p&gt;kasutaro1793[at]gmail.com.&lt;/p&gt;
 &lt;p&gt;stakasu[at]scripps.edu&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Profile</title>
-      <link>http://localhost:1313/profile/</link>
+      <link>https://shtakasu.github.io/profile/</link>
       <pubDate>Thu, 23 Mar 2023 22:02:00 +0900</pubDate>
       
-      <guid>http://localhost:1313/profile/</guid>
+      <guid>https://shtakasu.github.io/profile/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
 &lt;p&gt;I am a Postdoctral Associate in &lt;a href=&#34;https://www.kennedylab.org/&#34;&gt;Ann Kennedy&amp;rsquo;s lab&lt;/a&gt; at Scripps Research. I aim to elucidate &lt;strong&gt;the relationship between brain dynamics, representation, and function&lt;/strong&gt; using &lt;strong&gt;mathematical theories including dynamical systems theory, statistical physics&lt;/strong&gt;, and &lt;strong&gt;computer simulations&lt;/strong&gt;.
 Additionally, I am interested in how &lt;strong&gt;psychiatric symptoms&lt;/strong&gt;, such as hallucination and delusion, can be understood in terms of &lt;strong&gt;computational theory&lt;/strong&gt;.
@@ -36,10 +36,10 @@ Previously, I worked at a psychiatry hospital as a psychiatrist, and engaged in 
     
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://shtakasu.github.io/research/</link>
       <pubDate>Thu, 23 Mar 2023 20:23:50 +0900</pubDate>
       
-      <guid>http://localhost:1313/research/</guid>
+      <guid>https://shtakasu.github.io/research/</guid>
       <description>&lt;p&gt;I study the dynamics, functions, and learning mechanisms of neural networks using mathematical approaches, such as statistical physics and dynamical systems theory. Through collaborative research, I also analyze large-scale neural activity data, including calcium imaging and Neuropixels recordings from mice, as well as human ECoG data, using model-based approaches to uncover the underlying neural mechanisms.&lt;/p&gt;
 &lt;p&gt;ニューラルネットワークのダイナミクスや機能、学習メカニズムを、統計物理学や力学系理論などの数理的手法を用いて研究しています。また、共同研究を通じて、マウスのカルシウムイメージングやNeuropixels、ヒトのECoGなどの大規模神経活動データをモデルベースの手法で解析し、背後にあるメカニズムを解明することにも取り組んでいます。&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
