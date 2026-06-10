@@ -7,9 +7,9 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
-ニューラルネットワークのダイナミクス、機能、学習を、統計物理学や力学系理論などの数理的手法を用いたアプローチによって調べています。また、深層学習の理論に基づいて、脳の情報表現やそれを規定する因子を理論的に明らかにする研究も進めています。
+I study the dynamics, functions, and learning mechanisms of neural networks using mathematical approaches, such as statistical physics and dynamical systems theory. Through collaborative research, I also analyze large-scale neural activity data, including calcium imaging and Neuropixels recordings from mice, as well as human ECoG data, using model-based approaches to uncover the underlying neural mechanisms.
 
-I investigate dynamics, function and learning of neural networks employing mathematical tools from statistical physics and dynamical systems theory. Additionally, I theoretically study the information representation of the brain and its determining factors through deep learning theory. 
+ニューラルネットワークのダイナミクスや機能、学習メカニズムを、統計物理学や力学系理論などの数理的手法を用いて研究しています。また、共同研究を通じて、マウスのカルシウムイメージングやNeuropixels、ヒトのECoGなどの大規模神経活動データをモデルベースの手法で解析し、背後にあるメカニズムを解明することにも取り組んでいます。
 
 ## Publications
 ### Theoretical Neuroscience
@@ -23,6 +23,7 @@ I investigate dynamics, function and learning of neural networks employing mathe
 ・Masataka Wada, Masaru Mimura, Yoshihiro Noda, **Shotaro Takasu**, Eric Plitman, Makoto Honda, Akiyo Natsubori, Kamiyu Ogyu, Ryosuke Tarumi, Ariel Graff-Guerrero, Shinichiro Nakajima, Neuroimaging correlates of narcolepsy with cataplexy: A systematic review, [*Neuroscience Research*, 142, 16-29 (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0168010218300269).  
 
 ## Presentations（International Conference）
+・ **Shotaro Takasu**, Richard Gast and Ann Kennedy, "How local synaptic balance shapes population dynamics in recurrent neural networks", International Conference on Mathematical Neuroscience (ICMNS) 2026, McGill University, Canada, June 2026 (poster).  
 ・ **Shotaro Takasu** and Toshio Aoyagi, "Dynamical mean-field analysis of a reservoir computing receiving input signals partially", NEURO 2022, Okinawa Convention Center, Japan, July 2022 (oral).
 
 ## Presentations（国内会議）
