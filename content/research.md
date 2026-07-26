@@ -13,6 +13,7 @@ I study the dynamics, functions, and learning mechanisms of neural networks usin
 
 ## Publications
 ### Theoretical Neuroscience
+・Richard Gast, **Shotaro Takasu**, Helmut Schmidt, Ann Kennedy, A multi-ensemble mean-field reduction method for networks of globally coupled phase oscillators with arbitrary parameter distributions, [arXiv:2607.09516 (2026)](https://arxiv.org/abs/2607.09516).  
 ・**Shotaro Takasu** and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of reservoir recurrent neural networks, [*Physical Review Research*, 7, 043083 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/cwvm-s53p).  
 ・**Shotaro Takasu** and Toshio Aoyagi, Suppression of chaos in a partially driven recurrent neural network, [*Physical Review Research*, 6, 013172 (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013172).  
 
