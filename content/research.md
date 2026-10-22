@@ -25,7 +25,7 @@ I study the dynamics, functions, and learning mechanisms of neural networks usin
 ・Masataka Wada, Masaru Mimura, Yoshihiro Noda, **Shotaro Takasu**, Eric Plitman, Makoto Honda, Akiyo Natsubori, Kamiyu Ogyu, Ryosuke Tarumi, Ariel Graff-Guerrero, Shinichiro Nakajima, Neuroimaging correlates of narcolepsy with cataplexy: A systematic review, [*Neuroscience Research*, 142, 16-29 (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0168010218300269).  
 
 ## Presentations（International Conference）
-・**Shotaro Takasu**, Richard Gast and Ann Kennedy, " The presence of multiple synaptic contacts between neurons shapes dynamics and computation in neural networks", Neuroscience 2026, Society for Neuroscience, Washington, D.C., United States, November 2026 (poster).  
+・**Shotaro Takasu**, Richard Gast and Ann Kennedy, " The presence of multiple synaptic contacts between neurons shapes dynamics and computation in neural networks", Neuroscience 2026, Society for Neuroscience, Washington, D.C., United States, November 2026 (poster, accepted).  
 ・ **Shotaro Takasu**, Richard Gast and Ann Kennedy, "How local synaptic balance shapes population dynamics in recurrent neural networks", International Conference on Mathematical Neuroscience (ICMNS) 2026, McGill University, Canada, June 2026 (poster).  
 ・ **Shotaro Takasu** and Toshio Aoyagi, "Dynamical mean-field analysis of a reservoir computing receiving input signals partially", NEURO 2022, Okinawa Convention Center, Japan, July 2022 (oral).
 
