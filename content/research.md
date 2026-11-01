@@ -13,6 +13,7 @@ I study the dynamics, functions, and learning mechanisms of neural networks usin
 
 ## Publications
 ### Theoretical Neuroscience
+・Richard Gast, **Shotaro Takasu**, Juergen Kurths, Ann Kennedy, Deviations from global coupling in adaptive oscillator networks: a mean-field theory for the variance of coupling weights, [arXiv:2609.22597 (2026)](https://arxiv.org/abs/2609.22597).  
 ・**Shotaro Takasu**, Richard Gast, Ann Kennedy, Local connectivity balance shapes population dynamics in random recurrent networks, [arXiv:2608.30008 (2026)](https://arxiv.org/abs/2608.30008).  
 ・Richard Gast, **Shotaro Takasu**, Helmut Schmidt, Ann Kennedy, A multi-ensemble mean-field reduction method for networks of globally coupled phase oscillators with arbitrary parameter distributions, [arXiv:2607.09516 (2026)](https://arxiv.org/abs/2607.09516).  
 ・**Shotaro Takasu** and Toshio Aoyagi, Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of reservoir recurrent neural networks, [*Physical Review Research*, 7, 043083 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/cwvm-s53p).  
